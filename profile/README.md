@@ -20,4 +20,4 @@ If you find sufficent motivation feel free to fork a repo, code your idea and op
 
 ### Need Help Getting Started?
 
-Feel free to open a discussion in the repo you'd like to work on.
+Feel free to start a discussion in the repo you'd like to work on.
