@@ -17,3 +17,7 @@ Updates to the github wiki to reflect the current state of the code are more tha
 Please create an issue (or discussion, whichever is more appropiate) to address the demand for your bug/enhancement.
 
 If you find sufficent motivation feel free to fork a repo, code your idea and open a pull request for your change.
+
+### Need Help Getting Started?
+
+Feel free to open a discussion in the repo you'd like to work on.
